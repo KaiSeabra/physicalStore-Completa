@@ -7,7 +7,6 @@ API para gestão de lojas físicas e cálculo de opções de entrega usando CEP
 - Cálculo de distância usando Google Maps
 - Opções de retirada em PDV (até 50km)
 - Cálculo de fretes (Sedex/PAC) via Melhor Envio
-- Documentação Swagger integrada
 
 ## Tecnologias 🛠️
 - NestJS
